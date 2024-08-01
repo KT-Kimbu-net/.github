@@ -1,16 +1,16 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=002194&height=300&section=header&text=안녕하세요%20KT%20Wiz%20프로젝트%202팀%20김부넷%20입니다!😁&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
-  <h2>Info 📜</h2>
+  <h2>📜 Info</h2>
   <h3>기존 kt wiz 홈페이지의 UI/UX를 분석하여 개선하고, 유저 유입을 증가시키기 위해 AI 분석 기능 및 일반 기능을 추가하여 기존 홈페이지를 개선하는 프로젝트입니다 ⚾️</h3>
   <br />
-  <h2>Project Duration 📅</h2>
+  <h2>📅 Project Duration</h2>
   <h3>2024.06.17 ~ 2024.08.02</h3>
   <br />
   <br />
-  <h2>Stack ⌨️</h2>
+  <h2>⌨️ Stack</h2>
   <div>
     <div align="center">
-      <h3>Front-End 🖥️</h3>
+      <h3>🖥️ Front-End</h3>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=zustand&logoColor=%2361DAFB" />
@@ -19,25 +19,25 @@
       <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
     </div>
     <div align="center">
-      <h3>Back-End 🁢</h3>
+      <h3>🁢 Back-End</h3>
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
     </div>
     <div align="center">
-      <h3>Tool 🔨</h3>
+      <h3>🔨 Tool</h3>
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
     </div>
     <div align="center">
-      <h3>Collaboration 🤜 🤛</h3>
+      <h3>🤜 🤛 Collaboration</h3>
       <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     </div>
   </div>
   <br />
   <br />
-  <h2>Team Members 🙋‍♀️</h2>
+  <h2>🙋‍♀️ Team Members</h2>
     <table align="center">
       <thead>
         <th>
@@ -72,7 +72,7 @@
   <br />
   <br />
   <div>
-    <h2> Role 📌</h2>
+    <h2>📌 Role</h2>
     <h3><a href="https://github.com/HyeongwooIM">HyeongwooIM</a></h3>
     <p>페이지 구현(선수, 포인트 내역 조회, 테스트 관리자, 로그인), 서브메뉴 개선, 실시간 채팅</p>
     <br />
@@ -85,7 +85,7 @@
   <br />
   <br />
   <div>
-    <h2> Features 💡</h2>
+    <h2>💡 Features</h2>
     <div>
       <h3>✅ 실시간 경기 분석 데이터 및 승부 예측</h3>
       <img src="https://github.com/user-attachments/assets/291006b3-57ce-4cd0-8977-22325c3f8567"/>
@@ -144,7 +144,7 @@
   <br />
   <br />
   <div width="100%">
-    <h2> 기존 페이지 개선 💡</h2>
+    <h2>💡 기존 페이지 개선</h2>
     <div>
       <h3 align="center">메인 페이지</h3>
       <div align="center">
