@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=#FFFFFF&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=_hexcode&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <div style="background-color: yellow;"><h2>Info</h2></div>
 
