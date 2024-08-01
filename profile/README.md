@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=안녕하세요%20KT%20Wiz%20프로젝트%2팀%20김부넷%20입니다!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=안녕하세요%20KT%20Wiz%20프로젝트%2팀%20김부넷%20입니다!&fontSize=40" />
 
 <div style="background-color: yellow;"><h2>Info</h2></div>
 
