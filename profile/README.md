@@ -44,7 +44,7 @@
           <a href="https://github.com/HyeongwooIM">HyeongwooIM</a>
         </th>
         <th>
-          <a href="https://github.com/hhzzzk">hyejeong</a>
+          <a href="https://github.com/softourr">softourr</a>
         </th>
         <th>
           <a href="https://github.com/exceed96">exceed96</a>
@@ -76,7 +76,7 @@
     <h3><a href="https://github.com/HyeongwooIM">HyeongwooIM</a></h3>
     <p>페이지 구현(선수, 포인트 내역 조회, 테스트 관리자, 로그인), 서브메뉴 개선, 실시간 채팅</p>
     <br />
-    <h3><a href="https://github.com/hhzzzk">hyejeong</a></h3>
+    <h3><a href="https://github.com/softourr">softourr</a></h3>
     <p>페이지 구현(구장 혼잡도, 에러), 공용 컴포넌트(Header, Footer), AI 퀴즈, 실시간 채팅</p>
     <br />
     <h3><a href="https://github.com/exceed96">exceed96</a></h3>
