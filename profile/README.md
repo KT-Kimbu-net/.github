@@ -65,13 +65,13 @@
   <br />
   <br />
    <div>
-    <h2>💻 Deploy </h2>
+    <h2>💻 Deploy</h2>
     <h3><a href="https://kt-kimbu-net-fe.vercel.app/" target="_blank">🤜 김부넷 배포 사이트 바로가기 🤛</a></h3>
   </div>
   <br />
   <br />
   <div>
-    <h2> Approach 📋</h2>
+    <h2>📋 Approach</h2>
     <img src="https://github.com/user-attachments/assets/d853a42d-4386-416c-822f-adc67dfad7c3" />
     <h3>kt wiz는 타 구단과의 관중 수를 비교했을 때 10개 구단 중 9위의 관중 수를 기록하고 있었습니다. 기존 사이트의 이용자 수가 적었기 때문에 사용자들의 흥미를 끌고 새로운 유저 및 기존 유저들이 지속적으로 방문하도록 유도할 필요가 있다고 생각하였고 이에 따라서 다용한 AI기능을 활용하고 퀴즈, 배팅, 채팅, 포인트 시스템과 같은 사용자 참여형 콘텐츠를 추가하여 유저의 접속을 유도하도록 프로젝트의 목표를 정했습니다.</h3>
   </div>
