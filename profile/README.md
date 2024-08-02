@@ -66,7 +66,7 @@
   <br />
    <div>
     <h2>💻 Deploy </h2>
-    <a href="https://kt-kimbu-net-fe.vercel.app/" target="_blank"><h3>🤜 김부넷 배포 사이트 바로가기 🤛</h3></a>
+    <h3><a href="https://kt-kimbu-net-fe.vercel.app/" target="_blank">🤜 김부넷 배포 사이트 바로가기 🤛</a></h3>
   </div>
   <br />
   <br />
